@@ -1,6 +1,7 @@
 # dharmlok
 
-A testing application.
+A testing application.In this You can learn How to Navigate One screen to another ,How to generate dynamic list view and grid view .
+Also you learn how to manage setter getter model class .
 
 ## Getting Started
 
