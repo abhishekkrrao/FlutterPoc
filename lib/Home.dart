@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'package:dharmlok/src/Profile.dart';
 import 'package:dharmlok/src/dashboard.dart';
 import 'package:dharmlok/src/gallary.dart';
 import 'package:dharmlok/src/login.dart';
@@ -33,7 +34,7 @@ class HomePageState extends State<MyHomePage> {
   final List<Widget> _children = [
     DashBoard(),
     GallaryPage(),
-    SettingPage(),
+    Profile(),
   ];
   @override
   Widget build(BuildContext context) {

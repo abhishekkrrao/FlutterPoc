@@ -1,3 +1,4 @@
+import 'package:dharmlok/Paint/CustomShape.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
@@ -26,7 +27,7 @@ class SettingPage extends StatelessWidget {
                 storage.clear();
                 Navigator.of(context).pushAndRemoveUntil(
                     MaterialPageRoute(builder: (context) => LoginPage()),
-                        (Route<dynamic> route) => false);
+                    (Route<dynamic> route) => false);
               }), // here add notification icon
           // here add other icon
         ],
@@ -84,6 +85,7 @@ class SettingPage extends StatelessWidget {
                                     ),
                                   ),
                                 ),
+
                               ],
                             )
                           ],
