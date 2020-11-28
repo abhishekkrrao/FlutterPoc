@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278924279361",
+    "firebase_url": "https://dharmlok-da4e5.firebaseio.com",
+    "project_id": "dharmlok-da4e5",
+    "storage_bucket": "dharmlok-da4e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278924279361:android:1e20a51dfb11cbbf09d0c0",
+        "android_client_info": {
+          "package_name": "com.dharmlok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278924279361-v43douksjueg1egfa3jf89750gp4ell1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o3OpdtkN9KVtoFeXHixB3FQ6J7KG358"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278924279361-v43douksjueg1egfa3jf89750gp4ell1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278924279361-h9g36ufv99gqkkra51godp8alhqs6spq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dharmlok"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
